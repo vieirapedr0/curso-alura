@@ -131,3 +131,5 @@ dist
 
 
 cypress.env.json
+
+report/*.html
